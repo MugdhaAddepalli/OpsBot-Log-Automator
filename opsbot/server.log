@@ -1,0 +1,9 @@
+INFO User logged in successfully
+INFO Backup completed
+ERROR Database connection failed
+CRITICAL Server overheating detected
+INFO Scheduled task executed
+FAILED LOGIN attempt from IP 192.168.1.10
+ERROR Disk space low
+INFO User logged out
+FAILED LOGIN attempt from IP 192.168.1.11

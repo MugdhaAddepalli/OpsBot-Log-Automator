@@ -1,0 +1,11 @@
+=== SECURITY ALERT REPORT ===
+
+ERROR Database connection failed
+CRITICAL Server overheating detected
+FAILED LOGIN attempt from IP 192.168.1.10
+ERROR Disk space low
+FAILED LOGIN attempt from IP 192.168.1.11
+=== SUMMARY ===
+CRITICAL: 1
+ERROR: 2
+FAILED LOGIN: 2
